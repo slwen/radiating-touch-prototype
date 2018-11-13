@@ -1,0 +1,26 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-hand-iphone-1": "^1.0.0",
+		"@framer/framer.device-hand-iphone-2": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-space-gray": "^1.0.0",
+		"@types/react": "^16.4.16",
+		"framer": "^0.9.2"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.2",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "719e9751-62a8-4f32-a983-d6610bf12fdd"
+	},
+	"author": "Sam Enoka",
+	"dependencies": {
+		"@framer/edoardo.ios-kit": "^1.4.0",
+		"lodash": "^4.17.11",
+		"react-pose": "^4.0.1"
+	}
+}
